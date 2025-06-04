@@ -1,0 +1,7 @@
+python-dotenv
+playsound
+requests
+langdetect
+transformers
+torch
+flask
