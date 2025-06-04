@@ -1,0 +1,22 @@
+{
+    "manifest_version":3,
+    "name":"Text to Speech Chrome Extension",
+    "version":"1.0",
+    "permissions":[
+        "activeTab",
+        "scripting"
+    ],
+    "background":{
+        "service_worker":"background.js"
+    },
+    "action":{
+        "default_title":"Read the selected text"
+    },
+    "content_scripts":[
+        {
+            "matches":["<all_urls>"],
+            "js":["content.js"]
+        }
+    ]
+
+}
