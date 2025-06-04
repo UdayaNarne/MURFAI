@@ -3,10 +3,10 @@ This Chrome extension converts selected text into speech, enabling users to hear
 
 ## 🔊 Key Features
 
-- ✅ Convert any selected webpage text to speech
-- 🎭 Tone detection to read text in **different emotional styles** (e.g., sad, happy, serious)
-- 🌍 Language detection and voice switching
-- 🎧 Human-like voice using advanced TTS models
+- Convert any selected webpage text to speech
+- Tone detection to read text in **different emotional styles** (e.g., sad, happy, serious)
+- Language detection and voice switching
+- Human-like voice using advanced TTS models
 
 ## 🧠 How it Works
 
@@ -30,10 +30,10 @@ This Chrome extension converts selected text into speech, enabling users to hear
 - Install the Required Packages
 - Run the Flask Server
 - Load the Chrome Extension
-  . Open Chrome and go to chrome://extensions/
-  . Enable Developer mode (toggle at the top right)
-  . Click "Load Unpacked"
-  . Select the extension/ folder from the cloned repo
+  - Open Chrome and go to chrome://extensions/
+  - Enable Developer mode (toggle at the top right)
+  - Click "Load Unpacked"
+  - Select the extension/ folder from the cloned repo
 - Visit Any webpage
 - Select the text
 - Click on the extension icon
