@@ -26,6 +26,7 @@ This Chrome extension converts selected text into speech, enabling users to hear
 
 ## To run the project:
 - Clone the repo from **https://github.com/UdayaNarne/MURFAI**
+- To get API key from MURF, visit **https://murf.ai/api/dashboard?utm_source=murf_api_docs**
 - Setup the Virtual Environment
 - Install the Required Packages
 - Run the Flask Server
